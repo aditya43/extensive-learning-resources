@@ -30,10 +30,8 @@ Aditya Hajare | [https://github.com/aditya43](https://github.com/aditya43)
 - [Editors](#editors)
 - [Tools](#tools)
 - [Development Environment](#development-environment)
-- [Entertainment](#entertainment)
 - [Media](#media)
 - [Security](#security)
-- [Content Management System](#content-management-system)
 - [Miscellaneous](#miscellaneous)
 
 <br><hr><br>
