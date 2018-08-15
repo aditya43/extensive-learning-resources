@@ -1,16 +1,22 @@
 ## About This Project
 This is an extensive collection of personal notes, learning resources and cheat sheets for various computer science technologies.
 
+<br><hr><br>
+
 ## Author
-Aditya Hajare | Profile: [https://github.com/aditya43](https://github.com/aditya43)
+Aditya Hajare | [https://github.com/aditya43](https://github.com/aditya43)
+
+<br><hr><br>
 
 ## Contributors
 - Malcolm Brisby - Sr. Software Engg. at [Google](http://www.google.com) \(2010 to Present\)
 - Shruti P. - Sr. Solution Architect at [Microsoft](http://www.microsoft.com) \(2011 to Present\)
-- Aditya Hajare - CEO & Founder at [AdiInviter Inc.](http://www.adiinviter.com) \(2008 to April 2018\) | Technical Lead at Jetsynthesys \(April 2018 to Present\)
+- Aditya Hajare - CEO & Founder at [AdiInviter Inc.](http://www.adiinviter.com) \(Jun 2008 to Apr 2018\) | Technical Lead at Jetsynthesys \(Apr 2018 to Present\)
 - Irene Olejniczak - Software Engg. at [Amazon](http://www.amazon.com) \(2010 to Present\)
 - Colleen Froio - Entrepreneur & Technology Enthusiast \(2009 to Present\)
 - Colton A. Barrett - Sr. Software Engg. at [Amazon](http://www.amazon.com) \(2013 to Present\)
+
+<br><hr><br>
 
 ## Table of Contents
 - [Front-End Development](#front-end-development)
@@ -30,6 +36,8 @@ Aditya Hajare | Profile: [https://github.com/aditya43](https://github.com/aditya
 - [Security](#security)
 - [Content Management System](#content-management-system)
 - [Miscellaneous](#miscellaneous)
+
+<br><hr><br>
 
 ## Front-End Development
 - [ES6 Notes](https://github.com/aditya43/ES6)
@@ -114,6 +122,8 @@ Aditya Hajare | Profile: [https://github.com/aditya43](https://github.com/aditya
 - [Bootstrap 4](https://hackerthemes.com/bootstrap-cheatsheet/)
 - [HTML5](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/html5-cheat-sheet/html5-cheat-sheet.pdf)
 
+<br><hr><br>
+
 ## Back-End Development
 - [OAuth 2.0 Apis](https://github.com/aditya43/oauth2.0-logins)
 - [PHP Caching Technologies](https://github.com/aditya43/php-cache)
@@ -149,6 +159,8 @@ Aditya Hajare | Profile: [https://github.com/aditya43](https://github.com/aditya
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
 - [Vapor](https://github.com/Cellane/awesome-vapor#readme) - Server-side development in Swift.
 
+<br><hr><br>
+
 ## Databases
 - [Database](https://github.com/numetriclabz/awesome-db#readme)
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
@@ -169,6 +181,8 @@ Aditya Hajare | Profile: [https://github.com/aditya43](https://github.com/aditya
 - [postgresql](http://refcardz.dzone.com/refcardz/essential-postgresql)
 - [sql-join-cheat-sheet](http://coolshell.cn/articles/3463.html)
 - [SQL](http://www.sql-tutorial.net/sql-cheat-sheet.pdf)
+
+<br><hr><br>
 
 ## Programming Languages
 - [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
@@ -294,6 +308,8 @@ Aditya Hajare | Profile: [https://github.com/aditya43](https://github.com/aditya
 - [tcl-cheat-sheet](http://wiki.tcl.tk/10710)
 - [typescript-cheat-sheet](http://www.typescriptlang.org/Handbook)
 
+<br><hr><br>
+
 ## Big Data
 - [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)
@@ -302,6 +318,8 @@ Aditya Hajare | Profile: [https://github.com/aditya43](https://github.com/aditya
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme)
 - [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
+
+<br><hr><br>
 
 ## Platforms
 - [Android-Cheatsheet-For-Graphic-Designers](http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/)
@@ -314,6 +332,8 @@ Aditya Hajare | Profile: [https://github.com/aditya43](https://github.com/aditya
     - [UI-Testing-Cheat-Sheet](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet)
 - [saltstack](https://github.com/saltstack/salt/wiki/Cheat-Sheet)
 
+<br><hr><br>
+
 ## Theory
 - [acm-cheat-sheet](https://github.com/soulmachine/acm-cheat-sheet)
 - [bigo](http://bigocheatsheet.com/)
@@ -321,6 +341,8 @@ Aditya Hajare | Profile: [https://github.com/aditya43](https://github.com/aditya
 - [Everything About Regular Expressions](https://github.com/aditya43/mysql/blob/master/Important%20Notes.txt)
 - [regular-expression-cheat-sheet](https://github.com/niklongstone/regular-expression-cheat-sheet)
 - [rest-foundations-restful](http://refcardz.dzone.com/refcardz/rest-foundations-restful)
+
+<br><hr><br>
 
 ## Editors
 - [a_vi_vim_graphical_cheat_sheet_tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
@@ -335,6 +357,8 @@ Aditya Hajare | Profile: [https://github.com/aditya43](https://github.com/aditya
 - [Atom](https://github.com/nwinkler/atom-keyboard-shortcuts)
 - [NetBeans](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf)
 - [Sublime Text 3](https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet)
+
+<br><hr><br>
 
 ## Tools
 - [awk-nawk-and-gawk-cheat-sheet](http://www.catonmat.net/blog/awk-nawk-and-gawk-cheat-sheet/)
@@ -358,6 +382,8 @@ Aditya Hajare | Profile: [https://github.com/aditya43](https://github.com/aditya
 - [tmux](https://gist.github.com/andreyvit/2921703)
 - [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml)
 
+<br><hr><br>
+
 ## Development Environment
 - [Quick Dev Site With SSL](https://github.com/aditya43/auto-dev-site-linux) - For Linux
 - [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - For macOS.
@@ -380,19 +406,27 @@ Aditya Hajare | Profile: [https://github.com/aditya43](https://github.com/aditya
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows#readme) - Productivity app for macOS.
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
 
+<br><hr><br>
+
 ## Media
 - [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
+
+<br><hr><br>
 
 ## Security
 - [HTML5 Security Cheatsheet](https://github.com/cure53/H5SC)
 - [Penetration Testing/Security Cheatsheets](https://github.com/jshaw87/Cheatsheets)
 - [oauthsecurity](https://github.com/homakov/oauthsecurity)
 
+<br><hr><br>
+
 ## Miscellaneous
 - [easings.net](https://github.com/ai/easings.net)
 - [math-as-code](https://github.com/Jam3/math-as-code)
 - [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 - [Network-related cheatsheets](http://packetlife.net/library/cheat-sheets/)
+
+<br><hr><br>
 
 ## How To Contribute
 1. Fork this repository.
