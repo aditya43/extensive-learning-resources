@@ -3,21 +3,6 @@ This is an extensive collection of personal notes, learning resources and cheat 
 
 <br><hr><br>
 
-## Author
-Aditya Hajare | [https://github.com/aditya43](https://github.com/aditya43)
-
-<br><hr><br>
-
-## Contributors
-- Malcolm Brisby - Sr. Software Engg. at [Google](http://www.google.com) \(2010 to Present\)
-- Shruti P. - Sr. Solution Architect at [Microsoft](http://www.microsoft.com) \(2011 to Present\)
-- Aditya Hajare - CEO & Founder at [AdiInviter Inc.](http://www.adiinviter.com) \(2008 to 2018\) | Technical Lead at Jetsynthesys \(2018 to Present\)
-- Irene Olejniczak - Software Engg. at [Amazon](http://www.amazon.com) \(2010 to Present\)
-- Colleen Froio - Entrepreneur & Technology Enthusiast \(2009 to Present\)
-- Colton A. Barrett - Sr. Software Engg. at [Amazon](http://www.amazon.com) \(2013 to Present\)
-
-<br><hr><br>
-
 ## Table of Contents
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
